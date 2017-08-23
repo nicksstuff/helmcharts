@@ -7,7 +7,7 @@ entries:
     digest: 0663c4724c9b0c8c5a3ae851ffd3f33b8d7764df9f2a81d16aa84c9addda53e1
     name: ucd
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/stable/ucd.tgz
+    - https://raw.githubusercontent.com/niklaushirt/helmcharts/master/repo/stable/ucd.tgz
     version: 0.1.0
   db2:
   - apiVersion: v1
@@ -16,7 +16,7 @@ entries:
     digest: 0663c4724c9b0c8c5a3ae851ffd3f33b8d7764df9f2a81d16aa84c9addda53e1
     name: db2
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/stable/db2-0.1.0.tgz
+    - https://raw.githubusercontent.com/niklaushirt/helmcharts/master/repo/stable/db2-0.1.0.tgz
     version: 0.1.0
   mq:
   - apiVersion: v1
@@ -25,7 +25,7 @@ entries:
     digest: 33e3f5bf3227ac640a5222b78b8e4ef6926f55f7b757c00ec6e54470aa94fa8f
     name: mq
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/stable/mq-0.1.0.tgz
+    - https://raw.githubusercontent.com/niklaushirt/helmcharts/master/repo/stable/mq-0.1.0.tgz
     version: 0.1.0
   postgresql:
   - created: 2017-07-05T17:47:27.943013818-04:00
@@ -48,7 +48,7 @@ entries:
     - https://github.com/kubernetes/charts
     - https://github.com/docker-library/postgres
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/stable/postgresql-0.6.0.tgz
+    - https://raw.githubusercontent.com/niklaushirt/helmcharts/master/repo/stable/postgresql-0.6.0.tgz
     version: 0.6.0
   rabbitmq:
   - created: 2017-07-05T17:47:27.943988818-04:00
@@ -69,6 +69,6 @@ entries:
     sources:
     - https://github.com/bitnami/bitnami-docker-rabbitmq
     urls:
-    - https://raw.githubusercontent.com/IBM/charts/master/repo/stable/rabbitmq-0.5.3.tgz
+    - https://raw.githubusercontent.com/niklaushirt/helmcharts/master/repo/stable/rabbitmq-0.5.3.tgz
     version: 0.5.3
 generated: 2017-07-05T17:47:27.923801905-04:00
